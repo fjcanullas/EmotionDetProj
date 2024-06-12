@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Tools\KinectStudio\KStudio.exe"
